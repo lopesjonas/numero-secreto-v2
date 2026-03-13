@@ -3,3 +3,5 @@ Aqui vai a segunda linha.
 Terceira linha sendo escrita.
 Quarta linha para completar.
 E finalmente, a quinta linha.
+
+commit linha 7
