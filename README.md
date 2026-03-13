@@ -4,3 +4,5 @@
 2.Mudança - teste2
 3.Mudança - teste3
 --
+
+teste de git dia 12 de março de 2026.
